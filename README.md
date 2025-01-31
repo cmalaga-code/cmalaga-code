@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am a full stack developer that has experience in data engineering.
 
-* 🌍  I'm based in Tampa, FL
+* 🌍  I'm based in Tampa Bay Area
 * ✉️  You can contact me at [cmalaga720@gmail.com](mailto:cmalaga720@gmail.com)
 
 ### Skills
