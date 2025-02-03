@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a full stack developer that has experience in data engineering.
+I am a full stack developer.
 
 * 🌍  I'm based in the Tampa Bay Area
 * ✉️  You can contact me at [cmalaga720@gmail.com](mailto:cmalaga720@gmail.com)
