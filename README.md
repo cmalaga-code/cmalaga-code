@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Hi My name is Cristian Malaga</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristian Malaga
 =======================================================================================================================================
 
 Full Stack Developer
@@ -30,11 +30,3 @@ I am a full stack developer.
 <a href="http://www.github.com/cmalaga-code"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cmalaga-code&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/cmalaga-code" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmalaga-code&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/cmalaga-code/e-store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cmalaga-code&repo=e-store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/cmalaga-code/chatbot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cmalaga-code&repo=chatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/cmalaga-code/algorithm-viewer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cmalaga-code&repo=algorithm-viewer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/cmalaga-code/spotify-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cmalaga-code&repo=spotify-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
